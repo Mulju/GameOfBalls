@@ -28,4 +28,6 @@ public class Bar : MonoBehaviour
             gameObject.layer = LayerMask.NameToLayer("BarActive");
         }
     }
+
+    // Moi Antti
 }
